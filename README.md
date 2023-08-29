@@ -31,5 +31,10 @@ I love anything OS related and I have knowledge in Linux.
   <img align="center" alt="Juan Bautista | Gmail" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-## Quote
+## Count & Quote
+<p>   
+  <img src="https://profile-counter.glitch.me/JuanBaut/count.svg" />  
+</p>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
