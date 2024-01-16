@@ -1,4 +1,4 @@
-## My name is Juan! *Bogota, Colombia*
+## My name is Juan Andres! *Bogota, Colombia*
 
 I am a FullStack dev that also knows about data analysis.
 
