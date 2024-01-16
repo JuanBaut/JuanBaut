@@ -1,9 +1,9 @@
 ## My name is Juan! *Bogota, Colombia*
 
 I am a FullStack dev that also knows about data analysis.
-- To this day 8/29/23 I've made a React App with a Node.js Backend. (Check out React.js-Showcase repo)
-- I have 2 more React projects planned.
-- I'm in the process of becoming a great data analyst with Python.
+
+- To this day I have a finished academic project (videogames-pi) and I am building my portfolio.
+- I am very proud of my dotfiles and Neovim config.
 
 I love anything OS related and I have knowledge in Linux.
 
