@@ -1,9 +1,8 @@
 ## My name is Juan Andres! *Bogota, Colombia*
 
-I am a FullStack dev that also knows about data analysis.
+I am a FullStack dev that also knows about data analysis. Born and based in Colombia. I believe in designing things with passion in order to solve problems correctly with usability and aesthetics in mind.
 
-- To this day I have a finished academic project (videogames-pi) and I am building my portfolio.
-- I am very proud of my dotfiles and Neovim config.
+C1 English · A2 German · Native Spanish
 
 I love anything OS related and I have knowledge in Linux.
 
