@@ -1,4 +1,4 @@
-## My name is Juan Andres! *Bogota, Colombia*
+## I'm Andres. *Bogota, Colombia*
 
 I am a FullStack dev that also knows about data analysis. Born and based in Colombia. I believe in designing things with passion in order to solve problems correctly with usability and aesthetics in mind.
 
