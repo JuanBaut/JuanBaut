@@ -16,8 +16,15 @@ C1 English · A2 German · Native Spanish
 ![Static Badge](https://img.shields.io/badge/html-4361EE?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Count & Quote
-
-<div>
-  <img align="center" alt="Counter" src="https://profile-counter.glitch.me/JuanBaut/count.svg" />
-  <img align="center" alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img alt="Counter" src="https://profile-counter.glitch.me/JuanBaut/count.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical)" />
+    </td>
+  </tr>
+</table>
