@@ -1,8 +1,19 @@
-## I'm Juan Andres.
+## Juan Andres.
 
-I am a FullStack dev that also knows about data analysis. I believe in designing things with passion in order to solve problems correctly with usability and aesthetics in mind.
-
-C1 English · A2 German · Native Spanish
+<table align="center">
+  <tr>
+    <td align="center" width="70%">
+      I am a FullStack dev that also knows about data analysis. I believe in designing things with passion in order to solve problems correctly with usability and aesthetics in mind. 
+      <br /><br />
+      C1 English · A2 German · Native Spanish
+      <br /><br />
+      <img alt="Counter" src="https://profile-counter.glitch.me/JuanBaut/count.svg" />
+    </td>
+    <td align="center" width="30%">
+      <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical" />
+    </td>
+  </tr>
+</table>
 
 ## My Skills
 
@@ -14,17 +25,3 @@ C1 English · A2 German · Native Spanish
 ![Static Badge](https://img.shields.io/badge/TypeScript-480CA8?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-3F37C9?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/html-4361EE?style=for-the-badge&logo=html5&logoColor=white)
-
-## Count & Quote
-<table align="center">
-  <tr>
-    <td align="center">
-      <img alt="Counter" src="https://profile-counter.glitch.me/JuanBaut/count.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical)" />
-    </td>
-  </tr>
-</table>
