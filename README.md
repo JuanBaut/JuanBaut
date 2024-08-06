@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" width="65%">
-      I am a <b>software engineer</b> with knowledge in web development, data analysis and some linux. I believe in designing things with passion to solve problems correctly with usability and aesthetics in mind. 
+      I am a <b>computer science student</b> with knowledge in web development, data analysis and linux. I believe in designing things with passion to solve problems correctly with usability and aesthetics in mind. 
       <br /><br />
       C1 English · A2 German · Native Spanish
       <br /><br />
